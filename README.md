@@ -1,5 +1,13 @@
 # blog.jzhanson.com
 
+Notes to self
+```
+jekyll build
+jekyll serve --watch
+```
+
+
 ## TODO
-- [ ] Update title, tagline, etc, maybe make first post
 - [ ] Figure out [Octopress](https://github.com/imathis/octopress)
+- [ ] Get a little bit of post to show on front page per post instead of just title
+- [ ] Customize theme
