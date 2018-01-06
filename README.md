@@ -1,9 +1,11 @@
 # blog.jzhanson.com
 
-Notes to self
+Built using Jekyll, hosted with GitHub Pages.
+
+To build:
 ```
-jekyll build
-jekyll serve --watch
+bundle exec jekyll build
+bundle exec jekyll serve --watch
 ```
 
 
