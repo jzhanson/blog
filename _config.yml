@@ -16,7 +16,7 @@
 title: Junior Varsity Computer Science
 email: josh@jzhanson.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi, I'm Josh, an undergraduate CS major at Carnegie Mellon University. Please let me know if you love my blog, and please please let me know if you hate it and why - email me at josh@jzhanson.com. © 2017 Joshua Zhanson
+  Hi, I'm Josh, an undergraduate CS major at Carnegie Mellon University. Let me know if you love my blog, and definitely let me know if you hate it and why - email me at josh@jzhanson.com. © 2017 Joshua Zhanson
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.jzhanson.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
