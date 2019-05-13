@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Josh Zhanson
-email: josh@jzhanson.com
+email: josh at jzhanson.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi, I'm Josh, an undergraduate CS major at Carnegie Mellon University. Let me know if you love my blog, and definitely let me know if you hate it and why - email me at josh@jzhanson.com. © 2017 Joshua Zhanson
+  Hi, I'm Josh, an undergraduate CS major at Carnegie Mellon University. You can reach me at josh at jzhanson.com. © 2017 Joshua Zhanson
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.jzhanson.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
