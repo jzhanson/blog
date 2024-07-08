@@ -9,7 +9,7 @@ This is a quick blog post about two props I made for [Galaxy Awaits LARP](http:/
 
 # Blaster rifle
 
-![A NERF dart blaster propped up against a wall, painted black and metallic gunmetal grey](/assets/sw_larp/blaster_rifle.jpg "A NERF dart blaster propped up against a wall, painted black and metallic gunmetal grey")
+![A NERF dart blaster propped up against a wall, painted black and metallic gunmetal grey](/assets/sw_larp/blaster_rifle.jpeg "A NERF dart blaster propped up against a wall, painted black and metallic gunmetal grey")
 
 I used the Nerf Elite 2.0 Echo blaster, which had a chunky, military look that I liked. Unfortunately, it kind of sucks. The magazine action is not very smooth, and unintuitively, you have to pull the priming slider back to be able to release the magazine. But the vents on the side of the barrel, as well as the central barrel itself and magazine, looked fantastic.
 
@@ -27,7 +27,7 @@ Still, it was a fun project that taught me how to use the airbrush, and the blas
 
 # Defibrilator
 
-![A prop defibrilator made of a yellow "frog box" with a lightning bolt vinyl sticker and white wires connected to black paddles](/assets/sw_larp/defib.jpg "A prop defibrilator made of a yellow "frog box" with a lightning bolt vinyl sticker and white wires connected to black paddles")
+![A prop defibrilator made of a yellow "frog box" with a lightning bolt vinyl sticker and white wires connected to black paddles](/assets/sw_larp/defib.jpeg "A prop defibrilator made of a yellow "frog box" with a lightning bolt vinyl sticker and white wires connected to black paddles")
 
 I made a defibrilator from [Nibb31's frog box](https://www.thingiverse.com/thing:4094861) 3D printed in yellow filament with black clasps and a random peripheral I found in the junk pile at work for the white wires. The paddles are [Riv3's paddles](https://www.thingiverse.com/thing:5896464). I trimmed off the USB ends of the peripheral, stuck them into the paddles, and hot glued them in. I think superglue or something else would be more solid. The paddles are also a little small - I'd print them at 120% or even 150% for a nice comfy hold.
 
