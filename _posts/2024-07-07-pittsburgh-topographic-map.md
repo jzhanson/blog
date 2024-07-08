@@ -9,6 +9,8 @@ It's been a little over six years since I've updated this blog. Since then, I've
 
 My job has a makerspace, and I've been learning to 3D print and use the laser cutter. I've wanted to make a 3D topographic map for a while, and it just so happens that [Paul Chao](https://www.pauliechao.com/2017/09/pittsburgh-laser-cut-map.html) had already done the hard work of getting the contour data and was kind enough to post his DXF files and Rhino .3dm files for anyone to use.
 
+[Here are my Adobe Illustrator files.](https://drive.google.com/file/d/1yemA6dzq6vbkMVHU07FNFRGl9qZDNaWz/view?usp=sharing)
+
 # Opening the files
 
 At first, the makerspace recommended using Microsoft Visio to open and send files to the Universal laser cutter. Microsoft Visio is a flowchart and diagramming software with a very impoverished web version and no easy way to install the software locally. While it was technically capable of opening .dxf files, it was very difficult to scale them and nigh-impossible to manipulate the vector contours.
@@ -22,8 +24,6 @@ Paul's files were separated roughly into vector cut and raster engrave layers se
 I made a few changes to the files. Layer 0 had the rivers cut out, so I removed those vectors so Layer 0 is just a solid cutout of the outline of the city limits. Layer 2 also only had part of the city, so I had to use a trial version of Rhino3D to open the .3dm file Paul provided and extract the contours, import them into Illustrator, manually line them up with the existing Layer 2, and look back and forth between Layer 3 and Layer 2 to see which contours were actually part of Layer 2. I made some small additions to the later layers of the Westwood/Oakwood/East Carnegie penninsula, and I also added a small Layer 7 with some tiny pieces and inconsistencies with Paul's Layer 6 that didn't make sense to me. I stared hard at the [City of Pittsburgh's interactive topographic map](https://pittsburghpa.gov/innovation-performance/interactive-maps) to see if Paul got the contours around the edges right. I think there is a little hook-like piece at the south border of the city that I think should be elevation instead of depression -- it can be hard to tell whether the area between the border and the first contour line is a depression or an elevation, i.e. does it slope down or up.
 
 For the later layers, which have a lot of small pieces, I found it really helpful during assembly to add an additional layer to the files with the outline of the city, and roughly place each little piece where it would go on the map. Then, I separated the cut and engrave layers into smaller batches of 3-5 pieces each. Because the Universal Laser Systems (ULS) software was smart enough to only cut the areas that were marked with black or red lines, and not the whole canvas, I was able to position each batch separately on the wood and save some wood that way.
-
-[Here are my files, with Paul's .3dm file.]
 
 One interesting thing to note is that there is a gap in the City of Pittsburgh, a little south of the South Side Flats, between Knoxville on the west and Mt. Oliver on the east. There's no road data here, so it showed up as a blank spot on the map, but it didn't like the contours were affected, at least not in a major way. Luckily, it's small enough that it's not noticable unless you're looking for it.
 
