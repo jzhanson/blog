@@ -16,7 +16,7 @@
 title: Josh Zhanson
 email: josh at jzhanson.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Hi, I'm Josh, an undergraduate CS major at Carnegie Mellon University. You can reach me at josh at jzhanson.com. © 2017 Joshua Zhanson
+  Hi, I'm Josh, a data scientist specializing in NLP. You can reach me at josh at jzhanson.com. © 2024 Joshua Zhanson
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://blog.jzhanson.com" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
